@@ -1,0 +1,10 @@
+.pieza{border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+    .pieza[value="x"]{color: #ffffff;background-color: #4caf50;}
+    .pieza[value="o"]{ color: #ffffff;background-color: #9c27b0;}
+    .ganador{border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+    .ganador[value="x"]{color: #ffffff;background-color: #4caf50;}
+    .ganador[value="o"]{ color: #ffffff;background-color: #9c27b0;}
+
+.piezax{color: #df9d9d;background-color: #4caf50;border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+.piezao{ color: #d68484;background-color: #9c27b0;border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+
